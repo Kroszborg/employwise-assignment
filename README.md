@@ -1,7 +1,5 @@
 # EmployWise User Management Application
 
-![EmployWise User Management](https://via.placeholder.com/800x400?text=EmployWise+User+Management)
-
 ## 📌 Project Overview
 
 This project is a React TypeScript application that integrates with the Reqres API to perform basic user management functions. The application allows users to authenticate, view, search, edit, and delete user profiles.
