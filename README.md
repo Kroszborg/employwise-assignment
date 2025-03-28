@@ -6,7 +6,7 @@ This project is a React TypeScript application that integrates with the Reqres A
 
 ### 🔗 Live Demo
 
-[View the live demo here](#) (Replace with your hosted application URL when available)
+[View the live demo here](https://employwise-assignment-blue.vercel.app/)
 
 ## ✨ Features
 
